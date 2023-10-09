@@ -1,21 +1,21 @@
 # Stimulating Modular Cultures
 
-## Preprint
+## Published Article
 
-[https://arxiv.org/abs/2205.10563](https://arxiv.org/abs/2205.10563)
+- [arxiv: 2205.10563](https://arxiv.org/abs/2205.10563)
+- [science advances](https://www.science.org/doi/10.1126/sciadv.ade1755)
 
 ```bibtex
-@misc{yamamoto_modular_2022,
+@article{yamamoto_modular_2023,
   title = {Modular Architecture Facilitates Noise-Driven Control of Synchrony in Neuronal Networks},
-  author = {Yamamoto, Hideaki and Spitzner, F. Paul and Takemuro, Taiki and Buend{\'i}a, Victor and Morante, Carla and Konno, Tomohiro and Sato, Shigeo and {Hirano-Iwata}, Ayumi and Priesemann, Viola and Mu{\~n}oz, Miguel A. and Zierenberg, Johannes and Soriano, Jordi},
-  year = {2022},
+  author = {Yamamoto, Hideaki and Spitzner, F. Paul and Takemuro, Taiki and Buend{\'i}a, Victor and Murota, Hakuba and Morante, Carla and Konno, Tomohiro and Sato, Shigeo and {Hirano-Iwata}, Ayumi and Levina, Anna and Priesemann, Viola and Mu{\~n}oz, Miguel A. and Zierenberg, Johannes and Soriano, Jordi},
+  year = {2023},
+  month = aug,
+  journal = {Science Advances},
+  volume = {9},
   eprint = {2205.10563},
-  eprinttype = {arxiv},
-  primaryclass = {q-bio},
-  institution = {{arXiv}},
-  doi = {10.48550/arXiv.2205.10563},
-  url = {http://arxiv.org/abs/2205.10563},
-  archiveprefix = {arXiv},
+  pages = {eade1755},
+  doi = {10.1126/sciadv.ade1755},
 }
 ```
 

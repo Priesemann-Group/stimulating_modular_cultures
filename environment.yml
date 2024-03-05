@@ -8,33 +8,33 @@ name: modular_cultures
 channels:
   - conda-forge
 dependencies:
-  - python>=3.7
+  - python=3.7
   # - anaconda
   - dask
   - dask-jobqueue
   - tqdm
   - enlighten
-  - numpy
-  - scipy
-  - h5py
-  - xarray
-  - pytables
-  - matplotlib
+  - numpy=1.22.2
+  - scipy=1.8.0
+  - h5py=3.5.1
+  - pandas=1.4.2
+  - xarray=0.21.1
+  - pytables=3.7.0
+  - matplotlib=3.5.1
   - seaborn=0.11.2 # my violin-swarm plot hack does not work on version 0.12
   - palettable
-  - networkx
-  - brian2
-  - cython
-  - numba
+  - networkx=3.1
+  - brian2=2.5.0.3
+  - cython=0.29.27
+  - numba=0.53.1
   - ipywidgets
   - ipython
   - jupyter
   - jupyterlab
-  - pymc
-  # - theano-pymc
-  - arviz
+  - pymc=4.1.3
+  - arviz=0.12.1
   - pip
   - pip:
-    - ipy_dict_hierarchy
-    - python-benedict
-    - git+https://github.com/pSpitzner/bitsandbobs
+    - ipy_dict_hierarchy=0.0.2
+    - python-benedict=0.25.2
+    - git+https://github.com/pSpitzner/bitsandbobs=0.0.1
